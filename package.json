@@ -1,5 +1,5 @@
 {
-  "name": "recepita-package",
+  "name": "@MiixZ/recepita-package",
   "version": "1.0.0",
   "description": "paquete para recepita",
   "main": "index.js",

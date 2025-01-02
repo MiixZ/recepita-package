@@ -1,5 +1,5 @@
 {
-  "name": "@miixz/recepita-package",
+  "name": "@MiixZ/recepita-package",
   "version": "1.0.0",
   "description": "paquete para recepita",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "repository": "https://github.com/MiixZ/recepita-package.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@MiixZ:registry": "https://npm.pkg.github.com"
   },
-  "author": "",
+  "author": "Isma",
   "license": "ISC"
 }
